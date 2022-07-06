@@ -13,26 +13,12 @@ nlu:
 
 - intent: PedirTurno
   examples: |
-    - no quiero eso
-    - entendiste mal
-    - estoy enferma
-    - donde consigo un traumatologo
-    - hasta que hora estan abiertos
-    - perfecto
-    - mi hermana lo saco
-    - necesito un turno
     - me podes dar turno?
-    - me duele la garganta
-    - tengo un problema
-    - quiero un doctor
-    - algo me pasa
-    - pueden venir a casa?
-    - mi nene llora demasiado no se que hacer
-    - soy alergico, no se que comi pero no esoty bien
-    - estoy con nauseas
-    - si tengo sintomas de covid que hago?
-    - puedo tener un turno atras de otro?
-    - puedo ir con mis hijos al turno?
-    - hay estacionamiento ahi?
-    - turnos
+    - me podes dar turno por favor?
+    - me podes dar turno ya?
+    - me podes dar turno ya mismo?
+    - me podes dar turno ya mismo por favor?
+    - me podes dar turno ya mismo por favor bot?
+    - me podes dar turno ya mismo por favor bot querido?
+    - turno porfa
 
