@@ -1,0 +1,18 @@
+version: "3.1"
+
+intents:
+  - PedirTurno
+  - CambiarTurno
+  - CancelarTurno
+
+responses:
+  utter_PedirTurno:
+  - text: "Pidiendole un turno"
+  utter_CambiarTurno:
+  - text: "Cambiando turno"
+  utter_CancelarTurno:
+  - text: "Cancelando turno"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
