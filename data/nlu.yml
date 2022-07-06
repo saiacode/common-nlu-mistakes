@@ -14,11 +14,5 @@ nlu:
 - intent: PedirTurno
   examples: |
     - me podes dar turno?
-    - me podes dar turno por favor?
-    - me podes dar turno ya?
-    - me podes dar turno ya mismo?
-    - me podes dar turno ya mismo por favor?
-    - me podes dar turno ya mismo por favor bot?
-    - me podes dar turno ya mismo por favor bot querido?
     - turno porfa
 
